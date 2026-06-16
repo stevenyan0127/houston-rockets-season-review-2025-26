@@ -40,9 +40,9 @@ Run cells top-to-bottom. The notebook is organized into clearly labeled sections
 
 ```
 .
-├── index.html                                  # the standalone report (this is what GitHub Pages serves)
+├── index.html                                        # the standalone report 
 ├── notebook/
-│   └── rockets_season_review_25_26.ipynb       # full data pipeline + analysis
+│   └── rockets_season_review_25_26_clean.ipynb       # full data pipeline + analysis
 ├── requirements.txt
 └── README.md
 ```
