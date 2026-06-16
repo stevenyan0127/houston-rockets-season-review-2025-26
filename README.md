@@ -47,7 +47,7 @@ Run cells top-to-bottom. The notebook is organized into clearly labeled sections
 └── README.md
 ```
 
-## Notes on methodology
+## Notes on terminology
 
 - "Clutch" follows the NBA's official definition: last 5 minutes with the score within 5 points
 - "Stretch" in the KD-off analysis means one continuous on-off period within a game
