@@ -2,9 +2,7 @@
 
 A data-driven review of the Houston Rockets' 2025-26 NBA season. The report breaks down what worked, what didn't, and why — focusing on the structural roster issues that defined the year.
 
-**[View the live report →](https://USERNAME.github.io/REPO-NAME/)**
-
-(Replace `USERNAME` and `REPO-NAME` with your GitHub username and repo name once it's set up.)
+**[View the live report →](https://stevenyan0127.github.io/houston-rockets-season-review-2025-26/)**
 
 ## What's in the report
 
